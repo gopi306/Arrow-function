@@ -14,3 +14,8 @@ function Add(){
 }
 
 console.log("I am updated");
+
+
+
+console.log("Again upadated thet arrow functions");
+
